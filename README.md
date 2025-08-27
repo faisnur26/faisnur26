@@ -46,9 +46,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fais-nur-amrulloh-20910a381"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:pais.dev@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:faisnuramrulloh@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=pais123&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=faisnur26&color=brightgreen&style=for-the-badge)
