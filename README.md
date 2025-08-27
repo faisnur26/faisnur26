@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Fais Nur</h1>
+<h3 align="center">💻 Fullstack Developer | 🚀 Android & Web Enthusiast | 🎨 UI/UX Explorer</h3>
 
-<!--
-**faisnur26/faisnur26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ✨ About Me
+💡 Passionate in **Problem-Solving & Creative Coding**  
+🔭 Currently building **Mulia Rent (Car Rental App)**  
+🌱 Exploring **Cloud Computing & Cybersecurity**  
+🎯 Goal: Becoming a **Tech Innovator**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faisnur26&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faisnur26&theme=radical&hide_border=false" height="165"/>
+</p>
+
+---
+
+### 🚀 Projects Showcase
+🔗 [Mulia Rent](https://github.com/faisnur26/mulia-rent)  
+🔗 [E-Commerce Oil Motor](https://github.com/faisnur26/oli-store)  
+🔗 [Portfolio Website](https://github.com/faisnur26/portfolio)  
+
+---
+
+### 🌐 Find Me Online
+<p align="center">
+  <a href="https://www.linkedin.com/in/fais-nur-amrulloh-20910a381"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:pais.dev@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=pais123&color=brightgreen&style=for-the-badge)
