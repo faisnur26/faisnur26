@@ -36,7 +36,7 @@
 ---
 
 ### 🚀 Projects Showcase
-🔗 [Mulia Rent](https://github.com/faisnur26/mulia-rent)  
+🔗 [Mulia Rent](https://github.com/faisnur26/rentalmulia)  
 🔗 [E-Commerce Oil Motor](https://github.com/faisnur26/oli-store)  
 🔗 [Portfolio Website](https://github.com/faisnur26/portfolio)  
 
