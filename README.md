@@ -35,6 +35,12 @@
 
 ---
 
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/faisnur26/faisnur26/blob/output/snake.svg)
+
+---
+
 ### 🚀 Projects Showcase
 🔗 [Mulia Rent](https://github.com/faisnur26/rental_mulia)  
 🔗 [E-Commerce Oil Motor](https://github.com/faisnur26/gajah_motor_semarang)  
