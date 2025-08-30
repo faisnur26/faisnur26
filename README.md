@@ -36,10 +36,10 @@
 ---
 
 
-## 🟡 Pacman Mode
-<p align="center">
-  <img src="https://faisnur26.github.io/faisnur26/pacman.svg" width="600" />
-</p>
+## 🎮 Pac-Man Animation
+
+![Pacman animation](https://raw.githubusercontent.com/faisnur26/faisnur26/gh-pages/pacman.svg)
+
 
 
 
