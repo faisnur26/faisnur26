@@ -1,25 +1,28 @@
-name: Generate Pacman Animation
+name: Pacman Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # jalan tiap jam 00:00 UTC
-  workflow_dispatch:      # bisa jalan manual
+    - cron: "0 */12 * * *"   # update otomatis tiap 12 jam
+  workflow_dispatch:         # bisa dijalankan manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Generate Pacman (SVG)
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Generate Pacman
         uses: Platane/snk@v3
         with:
-          github_user_name: faisnur26
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/pacman.svg?color_pacman=yellow&color_dots=white&color_bg=000000
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
