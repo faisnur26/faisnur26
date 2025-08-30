@@ -1,7 +1,12 @@
+<div align="center">
+  <img src="assets/stop.gif" width="1000" height="180" style="border-radius:15px; box-shadow: 0 0 25px #00f0ff;" />
+</div>
 <h1 align="center">
-  <span style="color:#00f0ff; text-shadow: 0px 0px 10px #00f0ff, 0px 0px 20px #0077ff;">
-    👋 Hi there, I'm Fais Nur 🚀
-  </span>
+  <marquee behavior="alternate" scrollamount="10">
+    <span style="color:#00f0ff; text-shadow: 0px 0px 10px #00f0ff, 0px 0px 20px #0077ff;">
+      👋 Hi there, I'm Fais Nur 🚀
+    </span>
+  </marquee>
 </h1>
 
 <h3 align="center">
@@ -42,14 +47,20 @@
 
 ---
 
-<div align="center">
-
-<!-- GIF dengan efek glow -->
-<img src="assets/stop.gif" width="1000" height="180" />
-
-
-
-</div>
+### 🌐 Find Me Online
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <a href="https://www.linkedin.com/in/fais-nur-amrulloh-20910a381">
+      <img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/fais_26a?igsh=MWxsYmw5bTRpb252aQ==)">
+      <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:faisnuramrulloh@gmail.com">
+      <img src="https://img.shields.io/badge/Email-dd4b39?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </marquee>
+</p>
 
 ---
 
@@ -57,15 +68,6 @@
 🔗 [Mulia Rent](https://github.com/faisnur26/rental_mulia)  
 🔗 [E-Commerce Oil Motor](https://github.com/faisnur26/gajah_motor_semarang)  
 🔗 [Batik Nusantara Mobile Apps](https://github.com/faisnur26/Batik-Nusantara)  
-
----
-
-### 🌐 Find Me Online
-<p align="center">
-  <a href="https://www.linkedin.com/in/fais-nur-amrulloh-20910a381"><img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/fais_26a?igsh=MWxsYmw5bTRpb252aQ==)"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:faisnuramrulloh@gmail.com"><img src="https://img.shields.io/badge/Email-dd4b39?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
