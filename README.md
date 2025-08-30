@@ -36,8 +36,23 @@
 ---
 
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/faisnur26/faisnur26/blob/output/snake.svg)
+<div align="center">
+
+<p align="center">
+  <img src="assets/fastfurious.gif" width="800" style="border-radius: 15px; box-shadow: 0 0 25px #00f0ff;"/>
+</p>
+
+<h2 style="color:#00f0ff; text-shadow: 0 0 20px #00f0ff, 0 0 30px #0077ff;">
+  🏎️ Ride or Code 🏎️
+</h2>
+
+<p align="center" style="font-size:18px; color:#cccccc; font-family:monospace; text-shadow:0 0 10px #00f0ff;">
+  💻 <b>Coding fast, pushing furious.</b> <br/>
+  🔥 Powered by adrenaline & open-source spirit 🔥
+</p>
+
+</div>
+
 
 ---
 
