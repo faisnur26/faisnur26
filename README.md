@@ -41,15 +41,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=faisnur26&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=faisnur26&theme=radical&hide_border=false" height="165"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faisnur26&color=00f0ff&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
-### 🚀 Projects Showcase
-<div align="center">
-  <p>
-    🔗 <b>Mulia Rent</b> &nbsp;&nbsp; | &nbsp;&nbsp; 🔗 <b>E-Commerce Oil Motor</b> &nbsp;&nbsp; | &nbsp;&nbsp; 🔗 <b>Batik Nusantara Mobile Apps</b>
-  </p>
-</div>
+### 🚀 Projects Showcase 
+🔗 [Mulia Rent](https://github.com/faisnur26/rental_mulia) 
+🔗 [E-Commerce Oil Motor](https://github.com/faisnur26/gajah_motor_semarang) 
+🔗 [Batik Nusantara Mobile Apps](https://github.com/faisnur26/Batik-Nusantara)
 
 ---
 
@@ -61,7 +62,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faisnur26&color=00f0ff&style=for-the-badge" alt="profile views"/>
-</p>
