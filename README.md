@@ -38,7 +38,8 @@
 
 ## 🎮 Pac-Man Animation
 
-![Pacman animation](https://raw.githubusercontent.com/faisnur26/faisnur26/gh-pages/pacman.svg)
+![Pacman Animation](https://faisnur26.github.io/faisnur26/pacman.svg)
+
 
 
 
