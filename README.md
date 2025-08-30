@@ -45,7 +45,7 @@
 <div align="center">
 
 <!-- GIF dengan efek glow -->
-<img src="assets/stop.gif" width="1000" height="250" />
+<img src="assets/stop.gif" width="1000" height="180" />
 
 
 
