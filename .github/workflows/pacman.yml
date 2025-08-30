@@ -3,7 +3,7 @@ name: Generate Pacman Animation
 on:
   schedule:
     - cron: "0 0 * * *"   # jalan tiap jam 00:00 UTC
-  workflow_dispatch:      # bisa manual
+  workflow_dispatch:      # bisa jalan manual
 
 jobs:
   build:
@@ -12,13 +12,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Snake (SVG + GIF)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman (SVG)
+        uses: Platane/snk@v3
         with:
           github_user_name: faisnur26
           outputs: |
             dist/pacman.svg
-            dist/pacman.gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
