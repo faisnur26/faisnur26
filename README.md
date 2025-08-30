@@ -45,7 +45,7 @@
 <div align="center">
 
 <!-- GIF dengan efek glow -->
-<img src="assets/fastfurious.gif" width="800" alt="Fast Furious" />
+<img src="assets/cars.gif" width="800" alt="Fast Furious" />
 
 
 
